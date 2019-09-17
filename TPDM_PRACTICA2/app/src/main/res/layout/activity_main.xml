@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="13dp"
-        android:text="Práctica #2 Unidad 1"
+        android:text="Práctica #1 Unidad 1"
         android:textAlignment="center"
         android:textColor="#FF0000"
         android:textSize="25dp" />
